@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{30E7132A-5D8B-45DF-9120-6ABE0EC4DEB3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookManagementAppliction/Program.cs">
+    <Files>
+      <File FileName="BookManagementAppliction/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookManagementAppliction" expanded="True">
+            <Node name="BookManagementAppliction" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BookManagementAppliction FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

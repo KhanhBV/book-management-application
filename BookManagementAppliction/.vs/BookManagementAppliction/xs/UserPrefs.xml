@@ -1,31 +1,26 @@
 ﻿<Properties StartupConfiguration="{30E7132A-5D8B-45DF-9120-6ABE0EC4DEB3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BookManagementAppliction/Framework/Extension.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookManagementAppliction/Views/BookListView.cs">
     <Files>
-      <File FileName="BookManagementAppliction/Program.cs" Line="38" Column="31" />
-      <File FileName="BookManagementAppliction/Models/Book.cs" Line="35" Column="74" />
-      <File FileName="BookManagementAppliction/Controllers/BookController.cs" Line="27" Column="10" />
-      <File FileName="BookManagementAppliction/Views/BookCreateView.cs" Line="29" Column="10" />
-      <File FileName="BookManagementAppliction/Views/BookUpdateView.cs" Line="20" Column="68" />
-      <File FileName="BookManagementAppliction/Views/BookSingleView.cs" Line="41" Column="10" />
-      <File FileName="BookManagementAppliction/Framework/ViewHelp.cs" Line="62" Column="79" />
-      <File FileName="BookManagementAppliction/Framework/Extension.cs" Line="5" Column="6" />
+      <File FileName="BookManagementAppliction/Program.cs" Line="20" Column="50" />
+      <File FileName="BookManagementAppliction/Models/Book.cs" Line="20" Column="10" />
+      <File FileName="BookManagementAppliction/Controllers/BookController.cs" Line="36" Column="15" />
+      <File FileName="BookManagementAppliction/Views/BookCreateView.cs" Line="27" Column="87" />
+      <File FileName="BookManagementAppliction/Views/BookListView.cs" Line="28" Column="117" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookManagementAppliction" expanded="True">
             <Node name="BookManagementAppliction" expanded="True">
-              <Node name="Framework" expanded="True">
-                <Node name="Extension.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Framework" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Views" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="BookListView.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

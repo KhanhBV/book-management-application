@@ -26,7 +26,9 @@ namespace BookManagementAppliction
                     case "update":
                         bookController.Update(1);
                         break;
-
+                    case "list":
+                        bookController.List();
+                        break;
 
                     default:
                         Console.WriteLine("Unknow command");

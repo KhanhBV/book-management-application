@@ -25,6 +25,19 @@ namespace BookManagementAppliction.Controllers
             var view = new BookUpdateView(model);
             view.Render();
         }
+
+        public void List()
+        {
+            Book[] model = new Book[]
+            {
+                new Book{ Id = 1, Title =  "A new book 1" },
+                new Book{Id=2, Title = "A new book 2"},
+                new Book{Id = 3, Title = "A new book 3" }
+            };
+
+            BookListView bookListView = new BookListView(model);
+            bookListView.Render();
+        }
     }
 }
  

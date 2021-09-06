@@ -14,6 +14,11 @@ namespace BookManagementAppliction.Models
         private int _edition = 1;
         private string _file;
 
+        public Book()
+        {
+
+        }
+
         public int Id
         {
             get { return _id; }

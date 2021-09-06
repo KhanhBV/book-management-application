@@ -3,7 +3,6 @@
 /Users/vankhanhbui/Documents/C# Project/BookManagementAppliction/BookManagementAppliction/bin/Debug/netcoreapp3.1/BookManagementAppliction.runtimeconfig.dev.json
 /Users/vankhanhbui/Documents/C# Project/BookManagementAppliction/BookManagementAppliction/bin/Debug/netcoreapp3.1/BookManagementAppliction.dll
 /Users/vankhanhbui/Documents/C# Project/BookManagementAppliction/BookManagementAppliction/bin/Debug/netcoreapp3.1/BookManagementAppliction.pdb
-/Users/vankhanhbui/Documents/C# Project/BookManagementAppliction/BookManagementAppliction/obj/Debug/netcoreapp3.1/BookManagementAppliction.csproj.AssemblyReference.cache
 /Users/vankhanhbui/Documents/C# Project/BookManagementAppliction/BookManagementAppliction/obj/Debug/netcoreapp3.1/BookManagementAppliction.GeneratedMSBuildEditorConfig.editorconfig
 /Users/vankhanhbui/Documents/C# Project/BookManagementAppliction/BookManagementAppliction/obj/Debug/netcoreapp3.1/BookManagementAppliction.AssemblyInfoInputs.cache
 /Users/vankhanhbui/Documents/C# Project/BookManagementAppliction/BookManagementAppliction/obj/Debug/netcoreapp3.1/BookManagementAppliction.AssemblyInfo.cs
